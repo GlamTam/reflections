@@ -1,0 +1,4 @@
+GIT version control
+
+Use FC file_one file_two
+To compare files
