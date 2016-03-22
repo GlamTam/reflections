@@ -1,2 +1,5 @@
 lesson3.txt
-
+git rm: remove files from repository
+git remote: check if there is a remote
+git remote add: XXX URL
+git push XXX YYY: push local files XXX is name of external(origin) YYY is which branch
