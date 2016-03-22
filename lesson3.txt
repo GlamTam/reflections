@@ -3,3 +3,7 @@ git rm: remove files from repository
 git remote: check if there is a remote
 git remote add: XXX URL
 git push XXX YYY: push local files XXX is name of external(origin) YYY is which branch
+
+forking makes a copy on hte github servers, without storing on local device.
+
+Forking is a clone that gitubs makes. -- you can keep track of the clones and refer back to the original
