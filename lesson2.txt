@@ -1,0 +1,14 @@
+Dit is de reflectie van les 2:
+
+Git init : het starten van een git files
+Git status: Hiermee vraag je de status op. Je ziet welke files zijn aangepast en welke nog niet in de git zitten.
+
+the staging area is the step for the reposityor, you collect all the files before you commit them into channges so that you can track all these changes
+
+make change --> git status --> add files --> commit files --> wtite commit statement
+
+labels are braches
+
+git brach : see branches
+git branch XXX : add branch XXX
+git checkout XXX : go to branch XXX
